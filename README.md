@@ -8,6 +8,8 @@ NOTE => To use Excel Formula on Cells,
                 a. Address of cell should be in Capital Letter
                 b. There should be Single Space present between Every Character
                 c. Opening and Closing Brackets is mandatory to apply in Formula.
+                
+                Example : ( A1 + 2 * B1 )
 FEATURES =>
 
                 • Used Graph Data Structure among Cells and applied DFS to update 
