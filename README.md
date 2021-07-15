@@ -3,6 +3,11 @@ Excel-Book is a web application which is a clone of MS-EXCEL
 
 DEMO LINK => https://rishabhgoyal9.github.io/Excel-Book/
 
+NOTE => To use Excel Formula on Cells, 
+                      
+                a. Address of cell should be in Capital Letter
+                b. There should be Single Space present between Every Character
+                c. Opening and Closing Brackets is mandatory to apply in Formula.
 FEATURES =>
 
                 • Used Graph Data Structure among Cells and applied DFS to update 
@@ -15,9 +20,10 @@ FEATURES =>
                 • Clean and responsive UI
                 • Multi-sheet functionality and Text formatting and alignments
 
+
 Tech Used => 
 
-              Javascript
-              DOM
-              HTML
-              CSS
+               a. Javascript
+               b. DOM
+               c. HTML
+               d. CSS
